@@ -9,8 +9,8 @@ npm run dev
 # or
 yarn dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://mejatiya-10.github.io/blog40.blog/
+Open https://mejatiya-10.github.io/blog40.blog/.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
